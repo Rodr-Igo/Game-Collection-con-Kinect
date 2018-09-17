@@ -9,7 +9,7 @@ La idea del proyecto es el desarrollo de un software el cual contendra los sigui
 
 Estos juegos seran jugables con el uso del hardware conocido como Kinect.
 
-Developer Team :
+**Developer Team**:
 
 - [Rodigo Daniel Euan Biceño](https://github.com/Rodr-Igo)
 - [Magdiel Joab Pech Menéndez](https://github.com/MagdielPm)
