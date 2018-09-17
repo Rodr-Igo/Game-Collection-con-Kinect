@@ -12,6 +12,6 @@ Estos juegos seran jugables con el uso del hardware conocido como Kinect.
 Developer Team :
 
 - [Rodigo Daniel Euan Biceño](https://github.com/Rodr-Igo)
-- [Magdiel]()
-- [Morlaes]()
+- [Magdiel Joab Pech Menéndez](https://github.com/MagdielPm)
+- [José Marcos Morales Gómez](https://github.com/MarcosMorales01)
 
