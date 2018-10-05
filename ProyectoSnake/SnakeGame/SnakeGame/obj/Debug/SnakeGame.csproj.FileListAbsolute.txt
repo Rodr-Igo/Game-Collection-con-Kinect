@@ -1,0 +1,9 @@
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.Cache
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+F:\Magdiel\ProyectoSnake\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
