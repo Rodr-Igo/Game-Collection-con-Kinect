@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/inki1/Documents/Visual Studio 2017/tetris-master/TetrisGame/Content/scoreFont.spritefont</File>
+    <File>C:/Users/inki1/Documents/Visual Studio 2017/tetris-master/TetrisGame/Content/FilledBlock.png</File>
+    <File>C:/Users/inki1/Documents/Visual Studio 2017/tetris-master/TetrisGame/Content/scoreFontTitle.spritefont</File>
+    <File>C:/Users/inki1/Documents/Visual Studio 2017/tetris-master/TetrisGame/Content/scoreFontEm.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

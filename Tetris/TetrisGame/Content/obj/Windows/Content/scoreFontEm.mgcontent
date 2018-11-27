@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/inki1/Documents/Visual Studio 2017/tetris-master/TetrisGame/Content/scoreFontEm.spritefont</SourceFile>
+  <SourceTime>2018-11-18T14:58:07.8452951-06:00</SourceTime>
+  <DestFile>C:/Users/inki1/Documents/Visual Studio 2017/tetris-master/TetrisGame/Content/bin/Windows/Content/scoreFontEm.xnb</DestFile>
+  <DestTime>2018-11-18T14:58:28.5783749-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-23T16:55:52-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-23T16:55:52-05:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
