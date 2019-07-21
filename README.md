@@ -13,5 +13,4 @@ Estos juegos seran jugables con el uso del hardware conocido como Kinect.
 
 - [Rodigo Daniel Euan Biceño](https://github.com/Rodr-Igo)
 - [Magdiel Joab Pech Menéndez](https://github.com/MagdielPm)
-- [José Marcos Morales Gómez](https://github.com/MarcosMorales01)
 
